@@ -6,7 +6,8 @@ chain code is a compact representation of a contour or boundary in an image. It 
 
 
 
-![img71](https://github.com/Abdelrahman-Amen/Chain-code-in-patter-recognition/assets/103226865/4bc1c827-7344-407e-8480-fcac739b6f46)
+
+![Capture](https://github.com/Abdelrahman-Amen/Chain-code-in-patter-recognition/assets/103226865/35fe7f28-0fcd-4564-ba32-c651644bab45)
 
 
 ![Example-of-extract-chain-code-clockwise](https://github.com/Abdelrahman-Amen/Chain-code-in-patter-recognition/assets/103226865/fa8589f1-f29a-4278-8371-4c6c8982c820)
