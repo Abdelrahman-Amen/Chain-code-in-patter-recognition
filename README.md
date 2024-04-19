@@ -1,4 +1,4 @@
-# Chain-code
+# Chain-code ⛳
 
 
 chain code is a compact representation of a contour or boundary in an image. It describes the sequence of pixel transitions along the contour. Each transition represents a change in direction from one pixel to the next, usually in 8-connectivity, which considers horizontal, vertical, and diagonal transitions between pixels, there's also 4-connectivity. In 4-connectivity, pixels are only considered connected if they share a common edge, meaning transitions can only occur horizontally or vertically, not diagonally. Both 4-connectivity and 8-connectivity are commonly used in image processing, depending on the specific requirements of the application.
